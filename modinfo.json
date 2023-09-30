@@ -111,7 +111,18 @@
     ],
     "git_path": "SapphireTR/GVClient",
     "group": "Mod Menus",
-    "download_url": "https://github.com/SapphireTR/GVClient/releases/download/c%23/GVClient.zip"
+    "download_url": "https://github.com/SapphireTR/GVClient/releases/download/1.0.0/GVClient.zip"
+  },
+  {
+    "name": "Devs Menu",
+    "author": "Gorilla Dev",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "SapphireTR/DevsMenu",
+    "group": "Mod Menus",
+    "download_url": "https://github.com/SapphireTR/DevsMenu/releases/download/1.0.0/DevsMenu.zip"
   },
   {
     "name": "Overseer",
@@ -157,6 +168,17 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
   },
   {
+    "name": "Cosmetx",
+    "author": "dedouwe26",
+    "version": "1.2.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "SapphireTR/Cosmetx",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/SapphireTR/Cosmetx/releases/download/1.0.0/Cosmetx.zip"
+  },
+  {
     "name": "Grav Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.0",
@@ -200,6 +222,28 @@
     "git_path": "LIV/GorillaTagLIV",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
+  },
+  {
+    "name": "Yizzi's' Camera Mod",
+    "author": "Yizzi",
+    "version": "2.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "SapphireTR/YizziCamMod",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/SapphireTR/YizziCamMod/releases/download/2.0.0/YizziCamMod.zip"
+  },
+  {
+    "name": "Unity Explorer",
+    "author": "sinaidev",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "SapphireTR/UnityExplorer",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/SapphireTR/UnityExplorer/releases/download/1.0.0/UnityExplorer.zip"
   },
   {
     "name": "Marry Poppins",

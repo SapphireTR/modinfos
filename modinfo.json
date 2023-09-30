@@ -81,6 +81,17 @@
     "download_url": "https://github.com/SapphireTR/LostClient/releases/download/c%23/LostClientV3.zip"
   },
   {
+    "name": "Cyclone Reborn V9",
+    "author": "Btc",
+    "version": "9.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "SapphireTR/CycloneReborn",
+    "group": "Mod Menus",
+    "download_url": "https://github.com/SapphireTR/CycloneReborn/releases/download/1.0.0/CycloneReborn.zip"
+  },
+  {
     "name": "ShibaGT Dark",
     "author": "ShibaGT",
     "version": "13.0.0",
